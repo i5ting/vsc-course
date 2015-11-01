@@ -58,6 +58,6 @@ watcher.on('change', function(event) {
   console.log('File ' + event.path + ' was ' + event.type + ', running tasks...');
 });
 
-gulp.task('default',['watch', 'generate'] ,function () {
+gulp.task('default',['generate'] ,function () {
   console.log('default');
 });
