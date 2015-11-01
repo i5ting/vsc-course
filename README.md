@@ -1,6 +1,6 @@
 # vsc在线付费课程
 
-本次课程主要讲vsc编辑的用法，先简单介绍一下
+本次课程主要讲目前最潮的vsc编辑器的用法，每周一期，先简单介绍一下
 
 [Visual Studio Code](https://code.visualstudio.com/)（以下简称vsc）最近更新到了0.9.2版本
 
